@@ -1,0 +1,2 @@
+#define DeskStream_VERSION_MAJOR @DeskStream_VERSION_MAJOR@
+#define DeskStream_VERSION_MINOR @DeskStream_VERSION_MINOR@
